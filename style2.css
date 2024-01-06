@@ -1,0 +1,17 @@
+header {
+    background-image: url('img/money.jpg');
+    color: rgb(34, 34, 34);
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+    font-family:"MSゴシック"
+}
+
+body {
+    font-family:"MSゴシック"
+}
